@@ -1,0 +1,34 @@
+html,body{width:100%;height:100%;}
+body{margin:0px;height:0px;background:url(/images/body_bg.gif) repeat-x;}
+body, div, p, pre, blockquote, th, td,
+dl, dt, dd, ul, ol, li,img,
+h1, h2, h3, h4, h5, h6,
+iframe, object, embed {
+  margin: 0;
+  padding: 0;
+  border: none;
+  text-align: left;
+  font-size:13px;
+}
+div,h1,h2,h3,h4,h5,h6,p,td,th,ul,ol,dl,li,form,dt,dd{font-family:"ＭＳ Ｐゴシック",'Hiragino Kaku Gothic Pro';}
+
+ul, ol {
+  list-style-position: outside;
+  list-style-type: none;
+}
+body{}
+#wrap {width:700px;background:#fff;padding:10px 10px 10px 20px;position:relative}
+h1{background:#333;color:#fff;padding:5px 10px;}
+h1 span{padding-left:20px;}
+h2{margin:40px 0px 10px;background:#600;color:#fff;padding:5px 10px;font-size:20px;}
+h3{color:#060;font-size:20px;margin:20px 0px 0px}
+table{border-collapse:collapse;width:100%;}
+td,th{padding:3px;border:1px #aaa solid;}
+th {background:#eee}
+.w01{width:30%}
+.w02{width:10%}
+.w03{width:10%;}
+.w04{width:10%}
+.w05{}
+#logout{position:absolute;top:-25px;right:10px}
+#logout a{color:#fff}
