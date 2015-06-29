@@ -60,8 +60,8 @@ h1{padding:60px 43px 30px 44px;}
 .menu .list .right{width:285px;float:right;}
 .menu .list dt{font-weight:bold;font-size:16px;margin-top:20px;}
 .menu .list dd{overflow:hidden;_zoom:1;padding-left:10px;border-bottom:1px #ae9e80 dashed;padding-top:5px;}
-.menu .list dd span.mname{width:230px;float:left;}
-.menu .list dd span.price{width:45px;float:right;}
+.menu .list dd span.mname{width:220px;float:left;}
+.menu .list dd span.price{width:55px;float:right;text-align: right;}
 .menu .food dl{margin-top:20px;}
 .link{float:right;width:240px;}
 .link li,
